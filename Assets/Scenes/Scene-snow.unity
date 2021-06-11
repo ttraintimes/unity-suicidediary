@@ -225,6 +225,7 @@ GameObject:
   - component: {fileID: 2121255501}
   - component: {fileID: 2121255500}
   - component: {fileID: 2121255498}
+  - component: {fileID: 2121255497}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -232,6 +233,15 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!45 &2121255497
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2121255496}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 54fe2f000ad8f424fb63cc3ea0ae2bb2, type: 2}
 --- !u!124 &2121255498
 Behaviour:
   m_ObjectHideFlags: 0
@@ -290,13 +300,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2121255496}
-  m_LocalRotation: {x: 0.122694306, y: -0.7830318, z: 0.16354387, w: 0.5874187}
-  m_LocalPosition: {x: 2639.2563, y: 455.5958, z: 1512.1672}
+  m_LocalRotation: {x: -0.0015811956, y: -0.7970017, z: -0.0020865486, w: 0.60397136}
+  m_LocalPosition: {x: 2639.2563, y: 162, z: 1512.1672}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 50.43, z: 0}
+  m_LocalEulerAnglesHint: {x: -0.3, y: -105.69, z: 0}
 --- !u!1001 &4267964304000916289
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -322,7 +332,7 @@ PrefabInstance:
     - target: {fileID: 4267964303005854475, guid: 49ad0084c19ce4e1fb23f7d6b85c8625,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 155
       objectReference: {fileID: 0}
     - target: {fileID: 4267964303005854475, guid: 49ad0084c19ce4e1fb23f7d6b85c8625,
         type: 3}
