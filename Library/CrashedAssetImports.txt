@@ -1,1 +1,1 @@
-Assets/3DForge/Fantasy_Interiors/Villages_&_Towns/Meshes/Props/Beds/fi_vil_bed04_04.fbx
+Assets/3DForge/Fantasy_Interiors/Villages_&_Towns/Meshes/Props/Library/Bookpiles/fi_vil_library_bookpile12a.fbx
