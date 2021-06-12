@@ -5906,6 +5906,10 @@ PrefabInstance:
       propertyPath: m_LightmapTilingOffset.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 275478bab7577164990967848c09d9a2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e08318460b25b5447aa0c248ef039800, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 275478bab7577164990967848c09d9a2, type: 3}
 --- !u!1001 &224747286
